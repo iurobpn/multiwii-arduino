@@ -1,2 +1,2 @@
-# multiwii-sender
-A multiwii protocol to send data through arduino serial port
+# multiwii-arduino
+A multiwii serial protocol adapted from [provant](https://github.com/proVANTbr/provant-software "provant-software repository").
